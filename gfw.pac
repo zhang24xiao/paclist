@@ -1,7 +1,7 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2019-10-27 04:00:02
- * GFWList Last-Modified: 2019-08-09 13:11:16
+ * Generated: 2019-10-28 04:00:02
+ * GFWList Last-Modified: 2019-10-27 22:50:42
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -151,6 +151,7 @@ var rules = [
             "2008xianzhang.info", 
             "2017.hk", 
             "21andy.com", 
+            "21join.com", 
             "21pron.com", 
             "21sextury.com", 
             "228.net.tw", 
@@ -1190,6 +1191,7 @@ var rules = [
             "delcamp.net", 
             "delicious.com", 
             "democrats.org", 
+            "demosisto.hk", 
             "depositphotos.com", 
             "derekhsu.homeip.net", 
             "desc.se", 
@@ -1702,6 +1704,7 @@ var rules = [
             "freefq.com", 
             "freefuckvids.com", 
             "freegao.com", 
+            "freehongkong.org", 
             "freeilhamtohti.org", 
             "freekwonpyong.org", 
             "freelotto.com", 
@@ -3917,6 +3920,7 @@ var rules = [
             "rapidgator.net", 
             "rapidmoviez.com", 
             "rapidvpn.com", 
+            "rarbgprx.org", 
             "raremovie.cc", 
             "raremovie.net", 
             "raw.githubusercontent.com", 
@@ -4923,6 +4927,7 @@ var rules = [
             "txxx.com", 
             "tycool.com", 
             "typepad.com", 
+            "u15.info", 
             "u9un.com", 
             "ub0.cc", 
             "ubddns.org", 
@@ -5455,6 +5460,7 @@ var rules = [
             "yibada.com", 
             "yibaochina.com", 
             "yidio.com", 
+            "yigeni.com", 
             "yilubbs.com", 
             "yimg.com", 
             "yingsuoss.com", 
