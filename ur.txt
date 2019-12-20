@@ -1,1 +1,4 @@
-||ip
+||ip138.com
+||githubusercontent.com
+||amazon.com
+||amaconaws.com
