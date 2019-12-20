@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2019-12-20 18:21:31
+ * Generated: 2019-12-20 20:06:30
  * GFWList Last-Modified: 2019-11-05 00:21:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -16,7 +16,8 @@ var rules = [
             "intercom.io",
             "ip138.com",
             "shimo.im",
-            "shimo.run"
+            "shimo.run",
+            "sourceforge.net"
         ]
     ],
     [
