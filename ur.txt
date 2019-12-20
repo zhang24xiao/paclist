@@ -2,3 +2,6 @@
 ||githubusercontent.com
 ||amazon.com
 ||amaconaws.com
+||shimo.im
+||intercom.io
+||shimo.run
